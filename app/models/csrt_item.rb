@@ -1,0 +1,2 @@
+class CsrtItem < ApplicationRecord
+end
